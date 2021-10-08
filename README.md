@@ -23,17 +23,13 @@
   
   <a href="Illustration.html">Illustrations here </a>
   
-    <ui></ui>
-    <ui></ui>
+   
 </p>
-<p> Also, I am a UIUX designer. I have designed several apps::
+    <ui></ui>
+    <ui></ui>
+  <a href="uiproject.html">UIProjects </a>
    <ui></ui>
- <li> Fooderia app  - Where user can order food and can pay bill online. </li>
-  <li> Music app - A music app where songs can be added and new playlist can be created. </li>
-  <li> Googleclass room app - A classroom app where teacher can create class and add assignmnets stuff and course guidelines and student can join that particular classroom using class code given by teacher. </li>
-    </p>
-<ui></ui>
-<ui></ui>
+
 <a href="success.html">Success posts here </a>
 <ui></ui>
 <ui></ui>
