@@ -12,13 +12,28 @@
   <li> Fooderia app  </li>
   <li> Music app </li>
   <li> Googleclass room app</li>
-  <li> Personal Website <li>
-  <li> Background Generator app - That changes the background color while clicking on the button.<li>
-  <li> Api integration in Flutter<li>
+  <li> Personal Website </li>
+  <li> Background Generator app - That changes the background color while clicking on the button.</li>
+  <li> Api integration in Flutter</li>
   <li> Personal portfolio in flutter </li>
   <li> Validation in Signup forms in flutter </li>
   <li> Beautiful cards in flutter </li>
   <li> Revenue and expenditure record in flutter </li>
 
 </p>
+
+
+<p> As, I am a graphic designer. I made several iilustration:
+   <ui></ui>
+  <li> Professor illustration </li>
+  <li> Text Logos </li>
+  <li> Vector Logos </li>
+  <li> Facial illustration </li>
+  <li> Animated characters </li>
+  <li> Musci Poster </li>
+  <li> Social media posts</li>
+  <li> Vector eye</li>
+  <li> Badshahi mosque</li>
+  <li> Minimal design- cane/li>
+
 <h3> Just don't Quit </h3>
