@@ -20,11 +20,10 @@
   <ui></ui>
   <ui></ui>
   <ui></ui>
-  
+  </p>
   <a href="Illustration.html">Illustrations here </a>
   
-   
-</p>
+
     <ui></ui>
     <ui></ui>
   <a href="uiproject.html">UIProjects </a>
