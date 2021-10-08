@@ -46,4 +46,16 @@
     </p>
 <ui></ui>
 <ui></ui>
+
+<p> I am working as graphic designer in many societies:
+   <ui></ui>
+  <li> Graphic lead in GDSC </li>
+  <li> Graphic designer in AnZ tourism </li>
+  <li> Graphic designer in USS </li>
+  <li> Graphic designer in 360 Muslim expert </li>
+  <li> Former Interne in Software Hub Pro </li>
+  </p>
+  <ui></ui>
+<ui></ui>
+
 <h3> Just don't Quit </h3>
