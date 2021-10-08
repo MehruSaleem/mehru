@@ -20,16 +20,13 @@
   <ui></ui>
   <ui></ui>
   <ui></ui>
-  
+  </p>
   <a href="Illustration.html">Illustrations here </a>
-  
-   
-</p>
-    <ui></ui>
-    <ui></ui>
+ 
   <a href="uiproject.html">UIProjects </a>
-   <ui></ui>
-
+  
+  <a href="contact.html">Contact here </a>
+ 
 <a href="success.html">Success posts here </a>
 <ui></ui>
 <ui></ui>
