@@ -19,8 +19,11 @@
   <li> Revenue and expenditure record in flutter </li>
   <ui></ui>
   <ui></ui>
+  <ui></ui>
   
   <a href="Illustration.html">Illustrations here </a>
+  
+    <ui></ui>
     <ui></ui>
 </p>
 <p> Also, I am a UIUX designer. I have designed several apps::
@@ -31,24 +34,7 @@
     </p>
 <ui></ui>
 <ui></ui>
-<p> As, I am an aspiring graphic designer. I made several iilustration:
-   <ui></ui>
-  <li> Professor illustration </li>
-  <li> Text Logos </li>
-  <li> Vector Logos </li>
-  <li> Facial illustration </li>
-  <li> Animated characters </li>
-  <li> Musci Poster </li>
-  <li> Social media posts</li>
-  <li> Vector eye</li>
-  <li> Badshahi mosque</li>
-  <li> Minimal design- cane</li>
-  <li> Galaxy design</li>
-  <li> Quote posts</li>
-  <li> Quaid birthday posts</li>
-    </p>
-<ui></ui>
-<ui></ui>
+
 
 <p> I am working as graphic designer in many societies:
    <ui></ui>
