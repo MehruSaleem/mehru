@@ -20,7 +20,7 @@
   <ui></ui>
   <ui></ui>
   
-  <li><a href="illustration.html">Illustrations here </a></li>
+  <a href="Illustration.html">Illustrations here </a>
     <ui></ui>
 </p>
 <p> Also, I am a UIUX designer. I have designed several apps::
