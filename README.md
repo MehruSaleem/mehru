@@ -26,8 +26,8 @@
 
 
   <a href="uiproject.html">UIProjects </a>
-   <ui></ui>
 
+  <a href="contact.html">Contact here </a>
 <a href="success.html">Success posts here </a>
 <ui></ui>
 <ui></ui>
