@@ -9,9 +9,6 @@
   <li> Learning Managament system </li>
   <li> Quizdom</li>
   <li> Web pages</li>
-  <li> Fooderia app  </li>
-  <li> Music app </li>
-  <li> Googleclass room app</li>
   <li> Personal Website </li>
   <li> Background Generator app - That changes the background color while clicking on the button.</li>
   <li> Api integration in Flutter</li>
@@ -21,9 +18,15 @@
   <li> Revenue and expenditure record in flutter </li>
 
 </p>
+<p> Also, I am a UIUX designer. I have designed several apps::
+   <ui></ui>
+ <li> Fooderia app  - Where user can order food and can pay bill online. </li>
+  <li> Music app - A music app where songs can be added and new playlist can be created. </li>
+  <li> Googleclass room app - A classroom app where teacher can create class and add assignmnet stuff and student can join the code using class code. </li>
+  
+    </p>
 
-
-<p> As, I am a graphic designer. I made several iilustration:
+<p> As, I am an aspiring graphic designer. I made several iilustration:
    <ui></ui>
   <li> Professor illustration </li>
   <li> Text Logos </li>
@@ -35,5 +38,6 @@
   <li> Vector eye</li>
   <li> Badshahi mosque</li>
   <li> Minimal design- cane/li>
+    </p>
 
 <h3> Just don't Quit </h3>
