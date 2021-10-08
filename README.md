@@ -24,8 +24,7 @@
   <a href="Illustration.html">Illustrations here </a>
   
 
-    <ui></ui>
-    <ui></ui>
+
   <a href="uiproject.html">UIProjects </a>
    <ui></ui>
 
