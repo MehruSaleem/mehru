@@ -22,7 +22,7 @@
   <ui></ui>
   </p>
   <ui></ui>
-  <a href="Illustration.html"> Illustrations </a>
+  <a href="Illustration.html"> Illustrations </a> <br>
  
   <a href="uiproject.html"> UI Projects </a>
   
