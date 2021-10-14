@@ -22,13 +22,14 @@
   <ui></ui>
   </p>
   <ui></ui>
-  <a href="Illustration.html"> Illustrations </a> <br>
+  <a href="Illustration.html"> Illustrations </a> 
  
   <a href="uiproject.html"> UI Projects </a>
   
   <a href="contact.html"> Contact  </a>
  
 <a href="success.html"> Success posts </a>
+<a href="aboutuiux.html"> About UIUX </a>
 <ui></ui>
 <ui></ui>
 
