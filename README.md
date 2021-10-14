@@ -2,9 +2,9 @@
 
 <h3> Hi! I am Mehr-un-nisa! </h3>
 
-<ui></ui>
+<ul></ul>
 <p> A perspective computer scientist and an enthusiastic Graphic & UIUX designer! I am passionate about new challenges. I love to explore new things. l love to add creative and unique ideas to world through designing. Recently, I am on my way to learn and explore more about UIUX designing like prototyping, wireframes, personas and finally user interface. Also, I have worked on many projects like: 
-  <ui></ui>
+  <ul></ul>
   <li> Library Managament system </li>
   <li> Book store </li>
   <li> Quizdom</li>
@@ -17,13 +17,13 @@
   <li> Validation of Signup forms in flutter </li>
   <li> Beautiful cards in flutter </li>
   <li> Revenue and expenditure record in flutter </li>
-  <ui></ui>
-  <ui></ui>
-  <ui></ui>
+  <ul></ul>
+  <ul></ul>
+  <ul></ul>
   </p>
   <ui></ui>
   <a href="Illustration.html"> Illustrations </a> 
- 
+ <ul></ul>
   <a href="uiproject.html"> UI Projects </a>
   
   <a href="contact.html"> Contact  </a>
@@ -31,8 +31,8 @@
 <a href="success.html"> Success posts </a>
 <ul></ul>
 <a href="aboutuiux.html"> About UIUX </a>
-<ui></ui>
-<ui></ui>
+<ul></ul>
+<ul></ul>
 
 
 <h3> Just don't Quit </h3>
