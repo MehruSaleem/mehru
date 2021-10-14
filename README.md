@@ -25,9 +25,9 @@
   <a href="Illustration.html"> Illustrations </a> 
  <ul></ul>
   <a href="uiproject.html"> UI Projects </a>
-  
+  <ul></ul>
   <a href="contact.html"> Contact  </a>
- 
+ <ul></ul>
 <a href="success.html"> Success posts </a>
 <ul></ul>
 <a href="aboutuiux.html"> About UIUX </a>
