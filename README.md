@@ -23,7 +23,7 @@
   </p>
   <ui></ui>
   <a href="Illustration.html"> Illustrations </a>
-  <ui></ui>
+ 
   <a href="uiproject.html"> UI Projects </a>
   
   <a href="contact.html"> Contact  </a>
